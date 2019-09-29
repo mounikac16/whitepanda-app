@@ -11,7 +11,7 @@ const card = props => (
 	<Card className="card">
   		<Card.Img variant="top" className="imageHolder" src={require('./profile.JPG')} roundedCircle/>
   		<Card.Body>
-    		<Card.Title className="card_title" style={{color:"#404040"}}>{props.title}</Card.Title>
+    		<Card.Title className="card_title">{props.title}</Card.Title>
     		<Card.Subtitle className="card_subtitle" style={{color:'#6e6e6e'}}>{props.subtitle}</Card.Subtitle>
     		<Card.Text style={{color:'#9ca4ab'}} className="card_content">
       			{props.text}

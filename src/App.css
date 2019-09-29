@@ -55,6 +55,11 @@
   box-shadow: 0 5px 15px 2px rgba(0, 0, 0, 0.1);
 }
 
+.card :hover,
+.card .card_title:active{
+  color: #20B2AA;
+}
+
 @media screen and (max-width: 600px) {
   .column {
     width: 100%;
