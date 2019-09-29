@@ -82,7 +82,19 @@ class App extends Component {
           <a href="/" className="footer_icon"><FaInstagram /></a>
           <a href="/" className="footer_icon"><FaFacebookF /></a>
           <p>Copyright @ 2019 White Panda Media Pvt. Ltd.<br></br>All rights reserved </p>
-          <p><a href="#">Privacy policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#">Terms of service</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#">Service Agreement</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#">Contact us</a></p>
+          <center>
+            <table className="footer_table">
+              <tr>
+                <td><a href="#">Privacy policy</a></td>
+                <td style={{color:'#909090'}}>|</td>
+                <td><a href="#">Terms of service</a></td>
+                <td style={{color:'#909090'}}>|</td>
+                <td><a href="#">Service Agreement</a></td>
+                <td style={{color:'#909090'}}>|</td>
+                <td><a href="#">Contact us</a></td>
+              </tr>
+            </table>
+          </center>
         </div>
       </div>
     );
