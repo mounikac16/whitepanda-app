@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/whitepanda-app/static/css/main.65b5d976.chunk.css",
+    "main.js": "/whitepanda-app/static/js/main.13d24788.chunk.js",
+    "main.js.map": "/whitepanda-app/static/js/main.13d24788.chunk.js.map",
+    "runtime-main.js": "/whitepanda-app/static/js/runtime-main.d6967d7d.js",
+    "runtime-main.js.map": "/whitepanda-app/static/js/runtime-main.d6967d7d.js.map",
+    "static/js/2.eb69d9ed.chunk.js": "/whitepanda-app/static/js/2.eb69d9ed.chunk.js",
+    "static/js/2.eb69d9ed.chunk.js.map": "/whitepanda-app/static/js/2.eb69d9ed.chunk.js.map",
+    "index.html": "/whitepanda-app/index.html",
+    "precache-manifest.63ecb7a081c32d4635bbb3f68a1cbcee.js": "/whitepanda-app/precache-manifest.63ecb7a081c32d4635bbb3f68a1cbcee.js",
+    "service-worker.js": "/whitepanda-app/service-worker.js",
+    "static/css/main.65b5d976.chunk.css.map": "/whitepanda-app/static/css/main.65b5d976.chunk.css.map",
+    "static/media/logo.JPG": "/whitepanda-app/static/media/logo.679e529c.JPG"
+  }
+}
