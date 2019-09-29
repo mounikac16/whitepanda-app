@@ -7,11 +7,11 @@ import thLarge from '@iconify/icons-el/th-large';
 const sideDrawer = props => {
 	return(
 		<nav className="side-drawer">
-			<ul>
-				<li><div><a href="/"><Icon icon={thLarge} /></a></div></li>
-				<li><div><a href="/"><FaSearch /></a></div></li>
-				<li><div><a href="/"><FaStore /></a></div></li>
-			</ul>
+			<div className="icon-row">
+				<div className="icon-column"><a href="/"><Icon icon={thLarge} /></a></div>
+				<div className="icon-column"><a href="/"><FaSearch /></a></div>
+				<div className="icon-column"><a href="/"><FaStore /></a></div>
+			</div>
 		</nav>
 	)
 }

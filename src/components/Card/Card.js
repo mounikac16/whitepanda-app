@@ -9,14 +9,14 @@ import 'bootstrap/dist/css/bootstrap.min.css';*/
 
 const card = props => (
 	<Card className="card">
-  		<Card.Img variant="top" src="holder.js/100px180" roundedCircle/>
+  		<Card.Img variant="top" className="imageHolder" src={require('./profile.JPG')} roundedCircle/>
   		<Card.Body>
-    		<Card.Title className="title" style={{color:"#404040"}}>{props.title}</Card.Title>
-    		<Card.Subtitle>{props.subtitle}<span>&#8377;</span>{props.number}</Card.Subtitle>
-    		<Card.Text>
+    		<Card.Title className="card_title" style={{color:"#404040"}}>{props.title}</Card.Title>
+    		<Card.Subtitle className="card_subtitle" style={{color:'#6e6e6e'}}>{props.subtitle}</Card.Subtitle>
+    		<Card.Text style={{color:'#9ca4ab'}} className="card_content">
       			{props.text}
     		</Card.Text>
-    		<Button variant="outlined" style={{color:'#20B2AA'}} className="card-button">{props.button}</Button>
+    		<button style={{color:'#20B2AA'}} className="card-button">{props.button}</button>
   		</Card.Body>
 	</Card>
 );

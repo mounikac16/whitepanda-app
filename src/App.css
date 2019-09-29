@@ -9,6 +9,30 @@
   margin-left: 3rem;
 }
 
+.title {
+  font-family: "Arial",sans-serif;
+  font-size: 25px;
+  margin-top: 3rem;
+  color: black;
+  font-weight: 540;
+}
+
+.main_text {
+  margin-top: 3rem;
+  margin-left: 7rem;
+  width: 85%;
+  height: 13rem;
+  background-color: #f8f8ff;
+  padding: 1rem;
+  padding-right: 20rem; 
+  line-height: 20px;
+  font-family: "Arial",sans-serif;
+}
+
+.main_text_subtext {
+  font-size: 13px;
+}
+
 .row {
   margin-left: 3rem;
 }
@@ -18,17 +42,10 @@
   clear: both;
 }
 
-.title {
-  font-family: "Open Sans",sans-serif;
-  color: #696969;
-}
-
 .card {
   margin: 2rem;
   box-shadow: 0 3px 5px 0 rgba(0,0,0,0.08);
   transition: box-shadow 0.3s ease-in-out;
-  /*box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.01), 0 1px 1px 0 rgba(0, 0, 0, 0.01);*/
-  /*0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);*/
   padding: 16px;
   text-align: center;
   background-color: white;
@@ -44,4 +61,16 @@
     display: block;
     margin-bottom: 20px;
   }
+}
+
+.main-button {
+  background-color: #f8f8ff;
+  border-radius: 2px;
+  color: #20B2AA;
+  border: 1px solid #20B2AA;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  float: left;
 }
