@@ -1,0 +1,46 @@
+.toolbar {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	background: white;
+	height: 70px;
+	box-shadow: 0 0px 3px rgba(0, 0, 0, 0.2);
+}
+
+.toolbar_navigation {
+	display: flex;
+	height: 100%;
+	align-items: center;
+	padding: 0 1rem;
+}
+
+.toolbar_logo {
+	margin-left: 7rem;
+}
+
+.toolbar_logo a {
+	color: white;
+	text-decoration: none;
+	font-size: 1.5rem;
+}
+
+.spacer {
+	flex: 1;
+}
+
+.toolbar_navigation-items ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+}
+
+.toolbar_navigation-items li {
+	padding: 0 0.5rem;
+}
+
+.toolbar_navigation-items a {
+	color: #6e6e6e;
+	text-decoration: none;
+}
