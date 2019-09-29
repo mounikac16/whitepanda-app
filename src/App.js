@@ -4,6 +4,7 @@ import SideDrawer from './components/SideDrawer/SideDrawer';
 import Card from './components/Card/Card';
 import { makeStyles } from '@material-ui/core/styles';
 import Button from '@material-ui/core/Button';
+import { FaTwitter, FaLinkedinIn, FaInstagram, FaFacebookF } from 'react-icons/fa';
 import './App.css';
 
 class App extends Component {
@@ -74,6 +75,14 @@ class App extends Component {
             <Card className="card" title="Company Profile / Brochure" subtitle="from &#8377;2000" button="Order"
             text="Typically 450-400 words, an e-book is perfect for your target audience ranging from prospecive customers to users"/>
           </div>
+        </div>
+        <div className="footer_content">
+          <a href="/" className="footer_icon"><FaTwitter /></a>
+          <a href="/" className="footer_icon"><FaLinkedinIn /></a>
+          <a href="/" className="footer_icon"><FaInstagram /></a>
+          <a href="/" className="footer_icon"><FaFacebookF /></a>
+          <p>Copyright @ 2019 White Panda Media Pvt. Ltd.<br></br>All rights reserved </p>
+          <p><a href="#">Privacy policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#">Terms of service</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#">Service Agreement</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#">Contact us</a></p>
         </div>
       </div>
     );
