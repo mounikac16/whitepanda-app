@@ -19,8 +19,8 @@
 }
 
 .imageHolder {
-	height: 4rem;
-	width: 4rem;
+	background: url("./profile.png") center;
+	background-size: cover;
 	float: left;
 }
 

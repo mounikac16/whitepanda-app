@@ -62,9 +62,19 @@
 .card:hover {
   box-shadow: 0 5px 15px 2px rgba(0, 0, 0, 0.1);
 }
+.imageHolder{
+  height:4rem;
+  width:4rem;
+  border: 0;
+}
 
-.card :hover,
-.card .card_title:active{
+.card:hover .imageHolder{
+  background: #20B2AA;
+  border-radius: 50%;
+}
+
+.column :hover,
+.card_title:active{
   color: #20B2AA;
 }
 

@@ -7,7 +7,7 @@ import Image from 'react-bootstrap/Image'
 
 const card = props => (
 	<Card className="card" class="container">
-  		<Card.Img variant="top" className="imageHolder" src={require('./profile.JPG')} roundedCircle/>
+  		<Card.Img variant="top" className="imageHolder"/>
   		<Card.Body>
     		<Card.Title className="card_title">{props.title}</Card.Title>
     		<Card.Subtitle className="card_subtitle" style={{color:'#6e6e6e'}}>{props.subtitle}</Card.Subtitle>
