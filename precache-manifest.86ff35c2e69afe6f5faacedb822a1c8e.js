@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d851c1e3b4b1cbe454dacef48484dc14",
+    "revision": "291ec8432aedd4f551dbd6dc257c4f14",
     "url": "/whitepanda-app/index.html"
   },
   {
-    "revision": "2a00ea50ec6db0cdfb09",
-    "url": "/whitepanda-app/static/css/main.ed8d3573.chunk.css"
+    "revision": "7ccfebc9e0aa7ffe3e9d",
+    "url": "/whitepanda-app/static/css/main.ce6bb989.chunk.css"
   },
   {
     "revision": "db26dd2b8db6c1eb655a",
     "url": "/whitepanda-app/static/js/2.cfc84d9f.chunk.js"
   },
   {
-    "revision": "2a00ea50ec6db0cdfb09",
+    "revision": "7ccfebc9e0aa7ffe3e9d",
     "url": "/whitepanda-app/static/js/main.013f291b.chunk.js"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/whitepanda-app/static/media/logo.679e529c.JPG"
   },
   {
-    "revision": "f767f1ec6016cc3690ffbeee6990d8c4",
-    "url": "/whitepanda-app/static/media/profile.f767f1ec.png"
+    "revision": "87adbc8a34fb1c41adc1902018563006",
+    "url": "/whitepanda-app/static/media/profile.87adbc8a.JPG"
   }
 ]);

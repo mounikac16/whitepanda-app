@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/whitepanda-app/static/css/main.ed8d3573.chunk.css",
+    "main.css": "/whitepanda-app/static/css/main.ce6bb989.chunk.css",
     "main.js": "/whitepanda-app/static/js/main.013f291b.chunk.js",
     "main.js.map": "/whitepanda-app/static/js/main.013f291b.chunk.js.map",
     "runtime-main.js": "/whitepanda-app/static/js/runtime-main.d6967d7d.js",
@@ -8,10 +8,10 @@
     "static/js/2.cfc84d9f.chunk.js": "/whitepanda-app/static/js/2.cfc84d9f.chunk.js",
     "static/js/2.cfc84d9f.chunk.js.map": "/whitepanda-app/static/js/2.cfc84d9f.chunk.js.map",
     "index.html": "/whitepanda-app/index.html",
-    "precache-manifest.2c9ba6b8540a906bfc1eff25b059a610.js": "/whitepanda-app/precache-manifest.2c9ba6b8540a906bfc1eff25b059a610.js",
+    "precache-manifest.86ff35c2e69afe6f5faacedb822a1c8e.js": "/whitepanda-app/precache-manifest.86ff35c2e69afe6f5faacedb822a1c8e.js",
     "service-worker.js": "/whitepanda-app/service-worker.js",
-    "static/css/main.ed8d3573.chunk.css.map": "/whitepanda-app/static/css/main.ed8d3573.chunk.css.map",
+    "static/css/main.ce6bb989.chunk.css.map": "/whitepanda-app/static/css/main.ce6bb989.chunk.css.map",
     "static/media/logo.JPG": "/whitepanda-app/static/media/logo.679e529c.JPG",
-    "static/media/Card.css": "/whitepanda-app/static/media/profile.f767f1ec.png"
+    "static/media/Card.css": "/whitepanda-app/static/media/profile.87adbc8a.JPG"
   }
 }
