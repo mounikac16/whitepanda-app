@@ -10,7 +10,7 @@ const toolbar = props => (
 			<div className="toolbar_navigation-items">
 				<ul>
 					<li><div className="notification"><a href="/"><FaBell /></a></div></li>
-					<li><a href="/"><button className="user_account_button" round>AB</button></a></li>
+					<li><a href="/"><button className="user_account_button">AB</button></a></li>
 				</ul>
 			</div>
 		</nav>

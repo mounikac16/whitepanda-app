@@ -17,6 +17,10 @@
   font-weight: 540;
 }
 
+.heading_container {
+  width: 100%;
+}
+
 .main_text {
   margin-top: 3rem;
   margin-left: 7rem;
@@ -104,4 +108,8 @@
 
 .footer_table {
   font-size: 14px;
+}
+
+@media (max-width: 468px){
+
 }
