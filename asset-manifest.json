@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/whitepanda-app/static/css/main.21f3324e.chunk.css",
-    "main.js": "/whitepanda-app/static/js/main.eb5d73f0.chunk.js",
-    "main.js.map": "/whitepanda-app/static/js/main.eb5d73f0.chunk.js.map",
+    "main.css": "/whitepanda-app/static/css/main.0ed0cfef.chunk.css",
+    "main.js": "/whitepanda-app/static/js/main.e0f5065d.chunk.js",
+    "main.js.map": "/whitepanda-app/static/js/main.e0f5065d.chunk.js.map",
     "runtime-main.js": "/whitepanda-app/static/js/runtime-main.d6967d7d.js",
     "runtime-main.js.map": "/whitepanda-app/static/js/runtime-main.d6967d7d.js.map",
     "static/js/2.cfc84d9f.chunk.js": "/whitepanda-app/static/js/2.cfc84d9f.chunk.js",
     "static/js/2.cfc84d9f.chunk.js.map": "/whitepanda-app/static/js/2.cfc84d9f.chunk.js.map",
     "index.html": "/whitepanda-app/index.html",
-    "precache-manifest.8b1d1e5c019c7372848e5612b4d7fe58.js": "/whitepanda-app/precache-manifest.8b1d1e5c019c7372848e5612b4d7fe58.js",
+    "precache-manifest.09932b3278b6f687d600316e2dcc0df0.js": "/whitepanda-app/precache-manifest.09932b3278b6f687d600316e2dcc0df0.js",
     "service-worker.js": "/whitepanda-app/service-worker.js",
-    "static/css/main.21f3324e.chunk.css.map": "/whitepanda-app/static/css/main.21f3324e.chunk.css.map",
+    "static/css/main.0ed0cfef.chunk.css.map": "/whitepanda-app/static/css/main.0ed0cfef.chunk.css.map",
     "static/media/logo.JPG": "/whitepanda-app/static/media/logo.679e529c.JPG",
     "static/media/profile.JPG": "/whitepanda-app/static/media/profile.74e215f9.JPG"
   }
