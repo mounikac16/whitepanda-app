@@ -25,7 +25,7 @@ class App extends Component {
               If your<span>&apos;</span>e wondering about an easy way to place orders in large numbers, we provide a way customized just for that.
               Download our excel sheet, and fill the order brief in the prescribed format and submit. In case you need any help,
               <a href="#" style={{color:'#9ca4ab'}}>we are just a click away to assist you in placeing your order</a></p>
-            <button style={{color:'#20B2AA'}} className="main-button">Over via excel sheet</button>
+            <div className="button-div"><button style={{color:'#20B2AA'}} className="main-button">Over via excel sheet</button></div>
           </div>
         </div>
         <div className="row">

@@ -7,6 +7,7 @@
   width: 25%;
   padding: 2rem;
   margin-left: 3rem;
+  padding-right: 15rem;
 }
 
 .title {
@@ -24,11 +25,11 @@
 .main_text {
   margin-top: 3rem;
   margin-left: 7rem;
-  width: 85%;
-  height: 13rem;
+  margin-right: 8%;
   background-color: #f8f8ff;
   padding: 1rem;
-  padding-right: 20rem; 
+  padding-right: 20rem;
+  padding-bottom: 4rem;
   line-height: 20px;
   font-family: "Arial",sans-serif;
 }
@@ -39,7 +40,10 @@
 
 .row {
   margin-left: 3rem;
+  height: fit-content;
+
 }
+
 .row:after {
   content: "";
   display: table;
@@ -81,6 +85,7 @@
   padding-right: 1.5rem;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
   float: left;
 }
 
@@ -110,6 +115,34 @@
   font-size: 14px;
 }
 
-@media (max-width: 468px){
+@media screen and (max-width: 800px) and (min-width: 500px){
+  .main_text {
+    margin-top: 3rem;
+    margin-left: 7rem;
+    /*width: 65%;
+    height: 30rem;*/
+    background-color: #f8f8ff;
+    padding: 1rem;
+    padding-right: 2rem; 
+    line-height: 20px;
+    padding-bottom: 4rem;
+    font-family: "Arial",sans-serif;
+  }
 
+  .column {
+    margin-right:10rem;
+  }
+}
+
+@media screen and (max-width: 500px){
+  .main_text {
+    margin-top: 3rem;
+    margin-left: 7rem;
+    background-color: #f8f8ff;
+    padding: 1rem;
+    padding-right: 2rem; 
+    line-height: 20px;
+    padding-bottom: 4rem;
+    font-family: "Arial",sans-serif;
+  }
 }
