@@ -19,9 +19,10 @@
 }
 
 .imageHolder {
-	background: url("./profile.png") center;
+	background: url("./profile.JPG") center;
 	background-size: cover;
 	float: left;
+	border-radius: 50%;
 }
 
 .card_content {
